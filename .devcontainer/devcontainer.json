@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.209.5/containers/ubuntu
 {
-	"name": "gotip",
+	"name": "1.18beta1",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
